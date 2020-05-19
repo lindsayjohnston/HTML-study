@@ -1,8 +1,8 @@
-#HTML-study
+# HTML-study
 
 Examples of the most common HTML elements
 
-##Elements included:
+## Elements included:
 
     <nav>
     <ul>
