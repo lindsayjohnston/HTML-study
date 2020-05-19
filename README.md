@@ -1,6 +1,8 @@
 # HTML-study
 
-Examples of the most common HTML elements
+Examples of the most common HTML elements.
+
+Not a very pretty example, but I limited myself to HTML only. Also using this as a chance to play with GitHub more.
 
 ## Elements included:
 
