@@ -25,4 +25,4 @@ Not a very pretty example, but I limited myself to HTML only. Also using this as
 
 ## Link to wepbage:
 
-[CLICK HERE] (main.html)
+[CLICK HERE](main.html)
